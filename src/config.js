@@ -3,4 +3,4 @@ export const profile={name:'Madhav Ashrit',email:'madhavashrit15@gmail.com',loca
 linkedin:'https://www.linkedin.com/in/madhav-ashrit-9245b0281',github:'https://github.com/madhav-ashrit',
 // leetcode:'https://leetcode.com/u/REPLACE-ME',
 credly:'https://www.credly.com/users/madhav-ashrit',
-devopsAssistant:'https://cloudcaptain.duckdns.org',resume:'${import.meta.env.BASE_URL}resume_madhav_1.pdf'}};
+devopsAssistant:'https://cloudcaptain.duckdns.org',resume:'./resume_madhav_1.pdf'}};
