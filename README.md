@@ -2,10 +2,6 @@
 
 Responsive React + Vite portfolio, styled for GitHub Pages.
 
-## Before publishing
-1. Edit `src/config.js` and replace the LinkedIn, GitHub, LeetCode, Credly and AI DevOps Assistant URLs. These are placeholders because the actual URLs were not present in the resume text available to me.
-2. Add your PDF resume to `public/Madhav_Ashrit_Resume.pdf`.
-3. In `vite.config.js`, if this is a project repo such as `madhav-portfolio`, change `base: '/'` to `base: '/madhav-portfolio/'`. If your repository is named `YOURUSERNAME.github.io`, keep `/`.
 
 ## Run locally
 ```bash
